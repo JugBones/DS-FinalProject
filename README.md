@@ -10,7 +10,7 @@ We create a project that implements a data structure that is linked list into a 
 
 ### Languages and Tools:
 
-<img align="left" alt="VSC" width="47px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="VSC" width="30px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" 
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="CPP" width="32px" height="29px"
